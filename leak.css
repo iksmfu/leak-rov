@@ -1,0 +1,628 @@
+/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2024/02/25 03:21:08 */
+@import url("https://use.fontawesome.com/releases/v5.8.1/css/all.css");
+
+[class~=blue] {
+    color: #20a0ff;
+}
+
+.red {
+    color: #f56c6c;
+}
+
+[class~=green] {
+    color: #13ce66;
+}
+
+[class~=row] {
+    display: flex;
+}
+
+a:hover,
+a,
+a:active {
+    text-decoration: none;
+}
+
+[class~=row] {
+    justify-content: space-between;
+}
+
+[class~=row] {
+    padding-left: 2.4rem;
+}
+
+*,
+:before,
+:after {
+    box-sizing: border-box;
+}
+
+[class~=row] {
+    padding-bottom: 2rem;
+}
+
+[class~=row] {
+    padding-right: 2.4rem;
+}
+
+[class~=row] {
+    padding-top: 2rem;
+}
+
+html {
+    font-size: 10px;
+}
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+a,
+a:active,
+a:hover {
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a,
+a:hover,
+a:active {
+    outline: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #1d1c1c, #9333ca);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+@media (max-width: 767px) {
+    [class~=row] {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 479px) {
+    [class~=row] {
+        padding-left: 1.8rem;
+    }
+
+    [class~=row] {
+        padding-right: 1.8rem;
+    }
+}
+
+[class~=col] {
+    flex: 1 1;
+}
+
+[class~=title] {
+    position: relative;
+}
+
+[class~=title] {
+    font-size: 2.5rem;
+}
+
+[class~=title] {
+    margin-bottom: 2rem;
+}
+
+[class~=title] {
+    color: white;
+}
+
+@media screen and (min-height: 600px) {
+    [class~=home] [class~=freccia] {
+        position: absolute;
+    }
+
+    [class~=home] [class~=freccia] {
+        margin-top: 0;
+    }
+
+    [class~=home] [class~=freccia] {
+        left: calc(50% - 1rem);
+    }
+
+    [class~=home] [class~=freccia] {
+        bottom: 5%;
+    }
+}
+
+@-webkit-keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    40% {
+        -webkit-transform: translateY(-1rem);
+        transform: translateY(-1rem);
+    }
+
+    60% {
+        -webkit-transform: translateY(-.5rem);
+        transform: translateY(-.5rem);
+    }
+}
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    40% {
+        -webkit-transform: translateY(-1rem);
+        transform: translateY(-1rem);
+    }
+
+    60% {
+        -webkit-transform: translateY(-.5rem);
+        transform: translateY(-.5rem);
+    }
+}
+
+[class~=progetto]:after {
+    content: "";
+}
+
+[class~=progetto]:after {
+    position: fixed;
+}
+
+[class~=progetto]:after {
+    top: 0;
+}
+
+[class~=progetto]:after {
+    height: 100vh;
+}
+
+[class~=progetto]:after {
+    left: 0;
+}
+
+[class~=progetto] {
+    position: relative;
+}
+
+[class~=progetto]:after {
+    right: 0;
+}
+
+[class~=progetto] {
+    background: none;
+}
+
+[class~=progetto]:after {
+    z-index: -1;
+}
+
+[class~=progetto-row] {
+    justify-content: flex-start;
+}
+
+[class~=progetto]:after {
+    background: url("assets/sfondo.jpg") 50%;
+}
+
+[class~=progetto]:after {
+    filter: brightness(15%);
+}
+
+[class~=progetto]:after {
+    background-size: cover;
+}
+
+[class~=progetto-row] {
+    flex-wrap: wrap;
+}
+
+@media (max-width: 767px) {
+    [class~=progetto-row] {
+        flex-direction: row;
+    }
+}
+
+@media (max-width: 575px) {
+    [class~=progetto-row] {
+        flex-direction: column;
+    }
+}
+
+[class~=progetto-col] {
+    display: flex;
+}
+
+[class~=progetto-col] {
+    flex: 0 0 33.33332%;
+}
+
+[class~=progetto-col] {
+    justify-content: center;
+}
+
+@media (max-width: 991px) {
+    [class~=progetto-col] {
+        flex: 0 0 50%;
+    }
+}
+
+@media (max-width: 575px) {
+    [class~=progetto-col] {
+        flex: 0 0 100%;
+    }
+}
+
+[class~=progetto-card] {
+    position: relative;
+}
+
+[class~=progetto-card] {
+    display: inline-block;
+}
+
+[class~=progetto-card] {
+    margin-left: 2rem;
+}
+
+[class~=progetto-card] {
+    margin-bottom: 4rem;
+}
+
+[class~=progetto-card] {
+    margin-right: 2rem;
+}
+
+[class~=progetto-card] {
+    margin-top: 1rem;
+}
+
+[class~=progetto-card] {
+    width: 30rem;
+}
+
+[class~=progetto-card] {
+    height: 27rem;
+}
+
+[class~=progetto-card] {
+    background-color: #181a1b;
+}
+
+[class~=progetto-card] {
+    border-radius: 1rem;
+}
+
+[class~=progetto-card] {
+    border-left-width: .3rem;
+}
+
+[class~=progetto-card] {
+    border-bottom-width: .3rem;
+}
+
+[class~=progetto-card] {
+    border-right-width: .3rem;
+}
+
+[class~=progetto-card] {
+    border-top-width: .3rem;
+}
+
+[class~=progetto-card] {
+    border-left-style: solid;
+}
+
+[class~=progetto-card] {
+    border-bottom-style: solid;
+}
+
+[class~=progetto-card] {
+    border-right-style: solid;
+}
+
+[class~=progetto-card] {
+    border-top-style: solid;
+}
+
+[class~=progetto-card] {
+    border-left-color: #181a1b;
+}
+
+[class~=progetto-card] {
+    border-bottom-color: #181a1b;
+}
+
+[class~=progetto-card] {
+    border-right-color: #181a1b;
+}
+
+[class~=progetto-card] {
+    border-top-color: #181a1b;
+}
+
+[class~=progetto-card] {
+    border-image: none;
+}
+
+@media (max-width: 575px) {
+    [class~=progetto-card] {
+        width: 32rem;
+    }
+}
+
+@media (max-width: 479px) {
+    [class~=progetto-card] {
+        width: 100%;
+    }
+}
+
+[class~=quadrato] {
+    height: 18rem;
+    background-size: cover;
+    background-position: 60%;
+    border-radius: 2rem;
+    
+}
+
+[class~=membersbot] {
+    background-image: url("assets/members.png");
+}
+
+[class~=token2auth] {
+    background-image: url("assets/token2auth.png");
+}
+
+[class~=progetto-card-limitaticustom] {
+    background-image: url("assets/token2auth.png");
+}
+[class~=progetto-card-nuker],
+[class~=progetto-card-utilitiesbots] {
+    background-image: url("assets/");
+}
+
+[class~=progetto-card-btn],
+[class~=progetto-card-btn]:hover {
+    border-left-width: .1em;
+}
+
+.progetto-card-btn:hover,
+[class~=progetto-card-btn] {
+    border-bottom-width: .1em;
+}
+
+[class~=progetto-card-btn]:hover,
+[class~=progetto-card-btn] {
+    border-right-width: .1em;
+}
+
+[class~=progetto-card-content] {
+    padding-left: 1rem;
+}
+
+[class~=progetto-card-btn]:hover {
+    transform: scale(1.05);
+}
+
+[class~=progetto-card-content] {
+    padding-bottom: 1rem;
+}
+
+.progetto-card-content {
+    padding-right: 1rem;
+}
+
+[class~=progetto-card-content] {
+    padding-top: 1rem;
+}
+
+[class~=progetto-card-title] {
+    font-size: 2rem;
+}
+
+[class~=progetto-card-btn]:hover,
+[class~=progetto-card-btn] {
+    border-top-width: .1em;
+}
+
+[class~=progetto-card-btn],
+[class~=progetto-card-btn]:hover {
+    border-left-style: solid;
+}
+
+[class~=progetto-card-title],
+[class~=footer],
+[class~=progetto-card-btn] {
+    color: white;
+}
+
+[class~=progetto-card-btn] {
+    position: absolute;
+}
+
+[class~=progetto-card-btn] {
+    display: inline-block;
+}
+
+[class~=progetto-card-btn] {
+    bottom: .5rem;
+}
+
+[class~=progetto-card-btn] {
+    right: .5rem;
+}
+
+[class~=progetto-card-btn] {
+    padding-left: 1.5rem;
+}
+
+[class~=progetto-card-btn],
+.progetto-card-btn:hover {
+    border-bottom-style: solid;
+}
+
+[class~=progetto-card-btn] {
+    padding-bottom: .75rem;
+}
+
+[class~=progetto-card-btn] {
+    padding-right: 1.5rem;
+}
+
+[class~=progetto-card-btn] {
+    padding-top: .75rem;
+}
+
+[class~=progetto-card-btn] {
+    font-size: 1.2rem;
+}
+
+[class~=progetto-card-btn],
+.progetto-card-btn:hover,
+.progetto-card-btn:hover,
+[class~=progetto-card-btn] {
+    background-position: right center;
+}
+
+[class~=progetto-card-btn],
+.progetto-card-btn:hover {
+    color: #fff;
+}
+
+.progetto-card-btn:hover,
+.progetto-card-btn:hover,
+[class~=progetto-card-btn],
+[class~=progetto-card-btn] {
+    text-decoration: none;
+}
+
+[class~=progetto-card-btn] {
+    background-image: linear-gradient(to right, #000 0%, #53346d 51%, #000 100%);
+}
+
+[class~=progetto-card-btn] {
+    margin-left: .104166667in;
+}
+
+[class~=progetto-card-btn] {
+    margin-bottom: .104166667in;
+}
+
+[class~=progetto-card-btn] {
+    margin-right: .104166667in;
+}
+
+[class~=progetto-card-btn] {
+    margin-top: .104166667in;
+}
+
+[class~=progetto-card-btn] {
+    padding-left: 10px;
+}
+
+[class~=progetto-card-btn] {
+    padding-bottom: 7.5pt;
+}
+
+[class~=progetto-card-btn] {
+    padding-right: 10px;
+}
+
+[class~=progetto-card-btn] {
+    padding-top: 7.5pt;
+}
+
+[class~=progetto-card-btn],
+[class~=footer] {
+    text-align: center;
+}
+
+[class~=progetto-card-btn] {
+    text-transform: uppercase;
+}
+
+[class~=progetto-card-btn] {
+    transition: .5s;
+}
+
+[class~=progetto-card-btn] {
+    background-size: 200% auto;
+}
+
+[class~=progetto-card-btn] {
+    color: white;
+}
+
+[class~=progetto-card-btn] {
+    box-shadow: 0 0 1.25pc #eee;
+}
+
+[class~=progetto-card-btn] {
+    border-radius: 7.5pt;
+}
+
+[class~=progetto-card-btn] {
+    display: block;
+}
+
+.progetto-card-btn:hover,
+[class~=progetto-card-btn] {
+    color: #fff;
+}
+
+[class~=progetto-card-github] {
+    background: black;
+}
+
+[class~=progetto-card-telegram] {
+    background: #007bff;
+}
+
+[class~=footer] {
+    background-color: black;
+}
+
+#footer-link {
+    text-decoration: underline;
+}
+
+[class~=footer] {
+    padding-left: 1rem;
+}
+
+[class~=footer] {
+    padding-bottom: 1rem;
+}
+
+[class~=footer] {
+    padding-right: 1rem;
+}
+
+[class~=footer] {
+    padding-top: 1rem;
+}
+
+[class~=footer] {
+    font-size: 1rem;
+}
